@@ -24,5 +24,5 @@ end
 
 def order_of_operation(num1, num2, num3, num4)
   #Hint:  __ + (( __ * __ ) / __ )
-  oper = num4 + ((num1*num3)/num2)
+  oper = num1 + ((num2*num3)/num4)
 end
